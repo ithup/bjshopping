@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/controller/CustomerController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/dao/CustomerDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/domain/Customer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/domain/Goods.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/service/ManagerService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/tools/JDBCUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/view/MainView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/web/MainWeb.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ithuplion/bjs/web/MainWeb.java" charset="GBK" />
+  </component>
+</project>
